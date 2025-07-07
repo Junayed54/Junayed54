@@ -6,6 +6,15 @@
   <img src="https://komarev.com/ghpvc/?username=Junayed54&label=Profile%20views&color=0e75b6&style=flat" alt="Junayed54" /> 
 </p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Junayed54&theme=github-light" />
+
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github.com/Junayed54/Junayed54/blob/output/dist/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+
 ---
 
 ### 🧠 About Me
